@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#00cc99;">Hi 👋, I'm Abdul Afridi Shaik</h1>
-<h3 align="center" style="color:#0077b6;">A passionate Cloud Security & Cybersecurity Enthusiast</h3>
+<h3 align="center" style="color:#0077b6;">A passionate Frontend Developer & Cybersecurity Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afridishaik2804&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me:
 - 🌱 **Currently Learning**: **Cybersecurity**, **Penetration Testing**
-- 💼 **Work Experience**: 1.5 Years in **AI/ML** at **Wipro Technologies**
+- 💼 **Work Experience**: 1 Year in **AI/ML** at **Wipro Technologies**
 - 💬 **Ask Me About**: **AI/ML**, **Cloud Security**, **Cybersecurity**, **DevOps**
 - 📫 **Reach me at**: [abdulafridishaik@gmail.com](mailto:abdulafridishaik@gmail.com)
 
@@ -44,12 +44,15 @@
 
 ### 🛠️ Languages & Tools:
 <p align="center">
+  <!-- Cloud Platforms -->
   <a href="https://aws.amazon.com/security/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="60"/>
   </a>
+
+  <!-- DevOps Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
   </a>
@@ -59,6 +62,8 @@
   <a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60"/>
   </a>
+
+  <!-- Cybersecurity Tools -->
   <a href="https://www.owasp.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/OWASP_logo.svg" alt="OWASP" width="60" height="60"/>
   </a>
@@ -93,13 +98,6 @@
 
 ---
 
-### 🌐 Cybersecurity Themed Anime Art:
-<p align="center">
-  ![CyberSecurity Anime](https://source.unsplash.com/1600x900/?cybersecurity,anime) 
-</p>
-
----
-
 ### 📜 Notable Projects:
 Here are a few of my key contributions to **cybersecurity** and **cloud solutions**:
 
@@ -118,4 +116,3 @@ Here are a few of my key contributions to **cybersecurity** and **cloud solution
 ---
 
 Feel free to reach out to me via [Email](mailto:abdulafridishaik@gmail.com) or connect on social media. Let's collaborate and learn together!
-
