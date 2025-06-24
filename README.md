@@ -46,19 +46,31 @@
 
 ### 🛠️ Skills & Tools:
 <p align="center">
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60" />
+  <!-- AWS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="60" />
+
+  <!-- Azure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="60" height="60" />
 
-  <!-- DevOps -->
+  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
+
+  <!-- Terraform -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="60" height="60" />
+
+  <!-- Kubernetes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60" />
 
-  <!-- Security -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/owasp/owasp-original.svg" alt="OWASP" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="Nmap" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" alt="Metasploit" width="60" height="60" />
+  <!-- OWASP (PNG) -->
+  <img src="https://www.owasp.org/images/owasp-logo-32x32.png" alt="OWASP" width="60" height="60" />
+
+  <!-- Nmap (PNG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nmap_logo.svg/1200px-Nmap_logo.svg.png" alt="Nmap" width="60" height="60" />
+
+  <!-- Metasploit (PNG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Metasploit_Logo.svg/1200px-Metasploit_Logo.svg.png" alt="Metasploit" width="60" height="60" />
+
+  <!-- Windows Defender -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Defender" width="60" height="60" />
 </p>
 ---
