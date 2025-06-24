@@ -44,36 +44,7 @@
 
 ---
 
-### 🛠️ Skills & Tools:
-<p align="center">
-  <!-- AWS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="60" />
 
-  <!-- Azure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="60" height="60" />
-
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
-
-  <!-- Terraform -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="60" height="60" />
-
-  <!-- Kubernetes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60" />
-
-  <!-- OWASP (PNG) -->
-  <img src="https://www.owasp.org/images/owasp-logo-32x32.png" alt="OWASP" width="60" height="60" />
-
-  <!-- Nmap (PNG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nmap_logo.svg/1200px-Nmap_logo.svg.png" alt="Nmap" width="60" height="60" />
-
-  <!-- Metasploit (PNG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Metasploit_Logo.svg/1200px-Metasploit_Logo.svg.png" alt="Metasploit" width="60" height="60" />
-
-  <!-- Windows Defender -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Defender" width="60" height="60" />
-</p>
----
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afridishaik2804&show_icons=true&locale=en&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" />
@@ -83,21 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afridishaik2804&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
-### 🏆 Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afridishaik2804&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📜 Notable Projects:
-- **[SecureCloud](https://github.com/afridishaik2804/SecureCloud)** — DevOps security monitoring on cloud infrastructure  
-- **[PenTest-Automation](https://github.com/afridishaik2804/PenTest-Automation)** — Automated penetration testing scripts in Python & Bash  
-- **[AI-CyberDefender](https://github.com/afridishaik2804/AI-CyberDefender)** — AI-powered cybersecurity threat detection tool  
-
----
 
 ### 💬 Let’s talk about:  
 - 🔐 Cybersecurity & Threat Hunting  
