@@ -47,41 +47,21 @@
 ### 🛠️ Skills & Tools:
 <p align="center">
   <!-- Cloud -->
-  <a href="https://aws.amazon.com/security/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="60"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="60" height="60" />
 
   <!-- DevOps -->
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg" alt="Terraform" width="60" height="60"/>
-  </a>
-  <a href="https://www.kubernetes.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60" />
 
   <!-- Security -->
-  <a href="https://owasp.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/OWASP_logo.svg" alt="OWASP" width="60" height="60"/>
-  </a>
-  <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Nmap_logo.svg" alt="Nmap" width="60" height="60"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Metasploit_Logo.svg" alt="Metasploit" width="60" height="60"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/security" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Windows_Defender_logo.svg" alt="Windows Defender" width="60" height="60"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/owasp/owasp-original.svg" alt="OWASP" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="Nmap" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" alt="Metasploit" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Defender" width="60" height="60" />
 </p>
-
 ---
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afridishaik2804&show_icons=true&locale=en&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" />
