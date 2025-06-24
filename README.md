@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#00cc99;">Hi 👋, I'm Abdul Afridi Shaik</h1>
-<h3 align="center" style="color:#0077b6;">Cybersecurity Engineer & AI/ML Enthusiast from India</h3>
+<h3 align="center" style="color:#0077b6;">Cybersecurity Engineer & AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afridishaik2804&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -23,8 +23,8 @@
 
 ### 🎓 Certifications:
 - 🛡️ Certified Ethical Hacker (CEH v13)  
-- 🔐 CompTIA Security+  
-- ☁️ Azure DevOps AZ-204, AZ-400  
+- 🔐 NCL Spring 2024 Team Game 
+- ☁️ Azure AZ-900,Ai-900,DP-900,DP-204
 - ☁️ AWS Certified Cloud Practitioner
 
 ---
